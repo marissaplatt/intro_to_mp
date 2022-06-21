@@ -1,1 +1,1 @@
-# intro_to_mp
+# data-analytis-profile
